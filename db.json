@@ -1,0 +1,46 @@
+{
+users:[
+  {
+    "birthday": "1995-07-18",
+    "email": "cause71@hotmail.com",
+    "id": "delicate-cherry-7",
+    "nameFirst": "Ismael",
+    "nameLast": "Collins"
+  },
+  {
+    "birthday": "1977-07-20",
+    "email": "quart_myah@gmail.com",
+    "id": "lieutenant.sky",
+    "nameFirst": "Dana",
+    "nameLast": "Pouros"
+  },
+  {
+    "birthday": "2014-01-13",
+    "email": "kill@yahoo.com",
+    "id": "dusty.water.72",
+    "nameFirst": "Keshawn",
+    "nameLast": "Block"
+  },
+  {
+    "birthday": "1970-10-12",
+    "email": "truck_austyn@outlook.com",
+    "id": "frozen.firefly",
+    "nameFirst": "Heloise",
+    "nameLast": "Dach"
+  },
+  {
+    "birthday": "1972-04-30",
+    "email": "chester@outlook.com",
+    "id": "morning-leaf-40",
+    "nameFirst": "Abner",
+    "nameLast": "Dooley"
+  },
+  {
+    "birthday": "1969-12-27",
+    "email": "wear39@yahoo.com",
+    "id": "willy.sound",
+    "nameFirst": "Jean",
+    "nameLast": "Schaefer"
+  }
+]
+}
